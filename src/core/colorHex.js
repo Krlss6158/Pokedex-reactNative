@@ -1,0 +1,21 @@
+export const COLOR = [
+    { "name": "Normal", "type": "#A8A77A" },
+    { "name": "Fire", "type": "#EE8130" },
+    { "name": "Water", "type": "#6390F0" },
+    { "name": "Electric", "type": "#F7D02C" },
+    { "name": "Grass", "type": "#7AC74C" },
+    { "name": "Ice", "type": "#96D9D6" },
+    { "name": "Fighting", "type": "#C22E28" },
+    { "name": "Poison", "type": "#A33EA1" },
+    { "name": "Ground", "type": "#E2BF65" },
+    { "name": "Flying", "type": "#A98FF3" },
+    { "name": "Psychic", "type": "#F95587" },
+    { "name": "Bug", "type": "#A6B91A" },
+    { "name": "Rock", "type": "#B6A136" },
+    { "name": "Ghost", "type": "#735797" },
+    { "name": "Dragon", "type": "#6F35FC" },
+    { "name": "Dark", "type": "#705746" },
+    { "name": "Steel", "type": "#B7B7CE" },
+    { "name": "Fairy", "type": "#D685AD" },
+];
+
